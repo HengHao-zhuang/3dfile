@@ -1,0 +1,10 @@
+*.log
+.cargo-lock
+.fingerprint/
+build/
+serial.d
+serial.exe
+serial.pdb
+deps/
+examples/
+incremental/
